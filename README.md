@@ -1,13 +1,13 @@
 # VolunteerHub
-A community volunteering event application where users can organise volunteering events and volunteer.
+A community volunteering event application where users can easily organise volunteering events, volunteer and donate, all in one place.
 
 ## URL
 
-(Add link)
+(https://volunteerhubz.onrender.com/)
 
 ## App image
 
-![log-in screen]()
+![log-in screen](photos-read-me/Login.png)
 ![Image of event list]()
 ![Image of creating an event]()
 
@@ -26,20 +26,7 @@ A community volunteering event application where users can organise volunteering
 - Render
 - Trello board
 
-## MVP
-
-- Log in/out feature
-- Volunteering event information view available only for logged-in users
-- Participating and withdrawing from an event
-- Like/Unlike feature
-- Event participation history for users
-- Volunteering event list (date and time order)
-- Event details view (number and names of volunteers)
-- Volunteering event creation feature (edit/delete available only to organiser)
-- List of volunteering evnets that the user created
-- Event donation (cash) feature
-
-## User Stories
+## User Stories / MVP
 As a user,
 
 - I want to be able to sign up, log in and out of the application.
@@ -54,15 +41,15 @@ As a user,
 - I want to be able to create/organise a volunteering event.
 - I want to be the only user that can edit and delete event(s) I have created.
 - I want to be able to easily see all the events I have created/organised.
-- I want to be able to decide to donate/not to donate to an event. I want to be able to select donation amount from choices.
-- I want to see donated amount for an event in the all events list and event details.
+- I want to be able to donate (cash amount of my choice) to an event.
+- I want to be able to see donation goal and amount raised for each event.
 - I want to be able to set a donation goal for my event when creating an event.
-- I want to see donation goal and donated amount for the events that I organised.
 
 ## Ice box
 
 As a user,
 
+- I want to see all volunteering events without needing to log in (but only signed-in users can volunteer).
 - I want to receive notifications and reminders about volunteering events.
 - I want to be able to connect with other volunteers using the application.
 - I want to be able to provide comments on events.
@@ -75,12 +62,13 @@ As a user,
 - Deployment: Zala
 - Designer: Zala
 - Database Manager: John
+- Authentification and Authorization: John
 - Documenter: Mutsumi
 - Code: John, Zala, Mutsumi
 
 ## Pitch deck
 
-(VolunteerHub - GA Unit 3 Project) \* Add link
+(https://docs.google.com/presentation/d/1L4T_ubcK8NZy4TvZzVt9_93fR3nNefH0mmBN-HEA2gY/edit#slide=id.g274e5197dd6_1_39)
 
 ## Trello board
 
